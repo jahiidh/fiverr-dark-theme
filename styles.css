@@ -1,0 +1,27 @@
+html {
+  overflow-x: hidden;
+}
+body {
+  filter: invert(0.94);
+}
+body img,
+body svg,
+.fQXZI8\+,
+.user-online-indicator,
+.mp-seller-profile .form-thin article a.add,
+.seller-tests-wrapper .tests-wrapper .get-verified > p > a,
+.EMfXbxY.CBQjanu,
+.portfolio-showcase-selfview .project-grid .add-project a,
+.portfolio-showcase-selfview .project-grid .add-project svg,
+a.portfolio-link {
+  filter: invert(1);
+}
+
+body .btn-share-container svg {
+  filter: invert(0.5) !important;
+}
+
+.bg-co-green-700,
+.seller-tests-wrapper .tests-wrapper .btn-standard {
+  filter: invert(0.9);
+}
